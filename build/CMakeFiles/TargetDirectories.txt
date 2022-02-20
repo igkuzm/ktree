@@ -1,0 +1,8 @@
+/Users/kuzmich/src/ktree/build/CMakeFiles/rebuild_cache.dir
+/Users/kuzmich/src/ktree/build/CMakeFiles/edit_cache.dir
+/Users/kuzmich/src/ktree/build/CMakeFiles/ktree_test.dir
+/Users/kuzmich/src/ktree/build/CMakeFiles/ktree.dir
+/Users/kuzmich/src/ktree/build/klist/CMakeFiles/rebuild_cache.dir
+/Users/kuzmich/src/ktree/build/klist/CMakeFiles/edit_cache.dir
+/Users/kuzmich/src/ktree/build/klist/CMakeFiles/klist_test.dir
+/Users/kuzmich/src/ktree/build/klist/CMakeFiles/klist.dir
